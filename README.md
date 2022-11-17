@@ -1,4 +1,4 @@
-# build-is-your-birthday-lucky
+# Is your Birthday is lucky?
 
 <br/>
 A website which checks whether your birthday is lucky or not by calculating if
