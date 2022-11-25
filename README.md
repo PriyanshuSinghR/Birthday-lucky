@@ -18,7 +18,7 @@
 
 ## Live Project
 
-[Live Project](https://priyanshusinghr.github.io/Birthday-lucky/)
+[Live Project](https://priyanshu-birthday-lucky.netlify.app/)
 
 ## Connect with me
 
