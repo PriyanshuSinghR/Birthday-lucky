@@ -20,6 +20,10 @@
 
 [Live Project](https://priyanshu-birthday-lucky.netlify.app/)
 
+## Screenshots
+
+![lucky](https://user-images.githubusercontent.com/52795506/205506762-b981b115-95a2-40f0-abf4-de9de14125ff.jpg)
+
 ## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/priyanshu844/)
